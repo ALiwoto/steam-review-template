@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/steam-review-template/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/steam-review-template/static/js/main.a9bd3b57.chunk.js",
+    "main.js.map": "/steam-review-template/static/js/main.a9bd3b57.chunk.js.map",
+    "runtime-main.js": "/steam-review-template/static/js/runtime-main.2f3213fb.js",
+    "runtime-main.js.map": "/steam-review-template/static/js/runtime-main.2f3213fb.js.map",
+    "static/js/2.1674a370.chunk.js": "/steam-review-template/static/js/2.1674a370.chunk.js",
+    "static/js/2.1674a370.chunk.js.map": "/steam-review-template/static/js/2.1674a370.chunk.js.map",
+    "static/js/3.34fef803.chunk.js": "/steam-review-template/static/js/3.34fef803.chunk.js",
+    "static/js/3.34fef803.chunk.js.map": "/steam-review-template/static/js/3.34fef803.chunk.js.map",
+    "index.html": "/steam-review-template/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/steam-review-template/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1674a370.chunk.js.LICENSE.txt": "/steam-review-template/static/js/2.1674a370.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/steam-review-template/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3213fb.js",
+    "static/js/2.1674a370.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a9bd3b57.chunk.js"
+  ]
+}
