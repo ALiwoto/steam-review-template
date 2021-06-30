@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/steam-review-template/static/css/main.96216c68.chunk.css",
-    "main.js": "/steam-review-template/static/js/main.9cd934dc.chunk.js",
-    "main.js.map": "/steam-review-template/static/js/main.9cd934dc.chunk.js.map",
-    "runtime-main.js": "/steam-review-template/static/js/runtime-main.ba7606f4.js",
-    "runtime-main.js.map": "/steam-review-template/static/js/runtime-main.ba7606f4.js.map",
-    "static/js/2.067f0e9d.chunk.js": "/steam-review-template/static/js/2.067f0e9d.chunk.js",
-    "static/js/2.067f0e9d.chunk.js.map": "/steam-review-template/static/js/2.067f0e9d.chunk.js.map",
-    "static/js/3.8713e5ab.chunk.js": "/steam-review-template/static/js/3.8713e5ab.chunk.js",
-    "static/js/3.8713e5ab.chunk.js.map": "/steam-review-template/static/js/3.8713e5ab.chunk.js.map",
+    "main.css": "/steam-review-template/static/css/main.e499ee9c.chunk.css",
+    "main.js": "/steam-review-template/static/js/main.b3d4a526.chunk.js",
+    "main.js.map": "/steam-review-template/static/js/main.b3d4a526.chunk.js.map",
+    "runtime-main.js": "/steam-review-template/static/js/runtime-main.3563a236.js",
+    "runtime-main.js.map": "/steam-review-template/static/js/runtime-main.3563a236.js.map",
+    "static/js/2.240906db.chunk.js": "/steam-review-template/static/js/2.240906db.chunk.js",
+    "static/js/2.240906db.chunk.js.map": "/steam-review-template/static/js/2.240906db.chunk.js.map",
+    "static/js/3.35322969.chunk.js": "/steam-review-template/static/js/3.35322969.chunk.js",
+    "static/js/3.35322969.chunk.js.map": "/steam-review-template/static/js/3.35322969.chunk.js.map",
     "index.html": "/steam-review-template/index.html",
-    "static/css/main.96216c68.chunk.css.map": "/steam-review-template/static/css/main.96216c68.chunk.css.map",
-    "static/js/2.067f0e9d.chunk.js.LICENSE.txt": "/steam-review-template/static/js/2.067f0e9d.chunk.js.LICENSE.txt"
+    "static/css/main.e499ee9c.chunk.css.map": "/steam-review-template/static/css/main.e499ee9c.chunk.css.map",
+    "static/js/2.240906db.chunk.js.LICENSE.txt": "/steam-review-template/static/js/2.240906db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba7606f4.js",
-    "static/js/2.067f0e9d.chunk.js",
-    "static/css/main.96216c68.chunk.css",
-    "static/js/main.9cd934dc.chunk.js"
+    "static/js/runtime-main.3563a236.js",
+    "static/js/2.240906db.chunk.js",
+    "static/css/main.e499ee9c.chunk.css",
+    "static/js/main.b3d4a526.chunk.js"
   ]
 }
