@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/steam-review-template/static/css/main.e499ee9c.chunk.css",
-    "main.js": "/steam-review-template/static/js/main.b3d4a526.chunk.js",
-    "main.js.map": "/steam-review-template/static/js/main.b3d4a526.chunk.js.map",
+    "main.js": "/steam-review-template/static/js/main.c7bd1889.chunk.js",
+    "main.js.map": "/steam-review-template/static/js/main.c7bd1889.chunk.js.map",
     "runtime-main.js": "/steam-review-template/static/js/runtime-main.3563a236.js",
     "runtime-main.js.map": "/steam-review-template/static/js/runtime-main.3563a236.js.map",
     "static/js/2.240906db.chunk.js": "/steam-review-template/static/js/2.240906db.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3563a236.js",
     "static/js/2.240906db.chunk.js",
     "static/css/main.e499ee9c.chunk.css",
-    "static/js/main.b3d4a526.chunk.js"
+    "static/js/main.c7bd1889.chunk.js"
   ]
 }
