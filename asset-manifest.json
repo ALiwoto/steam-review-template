@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/steam-review-template/static/css/main.e499ee9c.chunk.css",
-    "main.js": "/steam-review-template/static/js/main.ae52a171.chunk.js",
-    "main.js.map": "/steam-review-template/static/js/main.ae52a171.chunk.js.map",
+    "main.css": "/steam-review-template/static/css/main.d106f94a.chunk.css",
+    "main.js": "/steam-review-template/static/js/main.b8f7a5fc.chunk.js",
+    "main.js.map": "/steam-review-template/static/js/main.b8f7a5fc.chunk.js.map",
     "runtime-main.js": "/steam-review-template/static/js/runtime-main.3563a236.js",
     "runtime-main.js.map": "/steam-review-template/static/js/runtime-main.3563a236.js.map",
-    "static/js/2.240906db.chunk.js": "/steam-review-template/static/js/2.240906db.chunk.js",
-    "static/js/2.240906db.chunk.js.map": "/steam-review-template/static/js/2.240906db.chunk.js.map",
+    "static/js/2.6e94d69b.chunk.js": "/steam-review-template/static/js/2.6e94d69b.chunk.js",
+    "static/js/2.6e94d69b.chunk.js.map": "/steam-review-template/static/js/2.6e94d69b.chunk.js.map",
     "static/js/3.35322969.chunk.js": "/steam-review-template/static/js/3.35322969.chunk.js",
     "static/js/3.35322969.chunk.js.map": "/steam-review-template/static/js/3.35322969.chunk.js.map",
     "index.html": "/steam-review-template/index.html",
-    "static/css/main.e499ee9c.chunk.css.map": "/steam-review-template/static/css/main.e499ee9c.chunk.css.map",
-    "static/js/2.240906db.chunk.js.LICENSE.txt": "/steam-review-template/static/js/2.240906db.chunk.js.LICENSE.txt"
+    "static/css/main.d106f94a.chunk.css.map": "/steam-review-template/static/css/main.d106f94a.chunk.css.map",
+    "static/js/2.6e94d69b.chunk.js.LICENSE.txt": "/steam-review-template/static/js/2.6e94d69b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3563a236.js",
-    "static/js/2.240906db.chunk.js",
-    "static/css/main.e499ee9c.chunk.css",
-    "static/js/main.ae52a171.chunk.js"
+    "static/js/2.6e94d69b.chunk.js",
+    "static/css/main.d106f94a.chunk.css",
+    "static/js/main.b8f7a5fc.chunk.js"
   ]
 }
