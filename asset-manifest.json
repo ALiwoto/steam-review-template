@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/steam-review-template/static/css/main.d106f94a.chunk.css",
-    "main.js": "/steam-review-template/static/js/main.f0de2f9e.chunk.js",
-    "main.js.map": "/steam-review-template/static/js/main.f0de2f9e.chunk.js.map",
+    "main.css": "/steam-review-template/static/css/main.ec2e062d.chunk.css",
+    "main.js": "/steam-review-template/static/js/main.16b49a88.chunk.js",
+    "main.js.map": "/steam-review-template/static/js/main.16b49a88.chunk.js.map",
     "runtime-main.js": "/steam-review-template/static/js/runtime-main.3563a236.js",
     "runtime-main.js.map": "/steam-review-template/static/js/runtime-main.3563a236.js.map",
     "static/js/2.6e94d69b.chunk.js": "/steam-review-template/static/js/2.6e94d69b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.35322969.chunk.js": "/steam-review-template/static/js/3.35322969.chunk.js",
     "static/js/3.35322969.chunk.js.map": "/steam-review-template/static/js/3.35322969.chunk.js.map",
     "index.html": "/steam-review-template/index.html",
-    "static/css/main.d106f94a.chunk.css.map": "/steam-review-template/static/css/main.d106f94a.chunk.css.map",
+    "static/css/main.ec2e062d.chunk.css.map": "/steam-review-template/static/css/main.ec2e062d.chunk.css.map",
     "static/js/2.6e94d69b.chunk.js.LICENSE.txt": "/steam-review-template/static/js/2.6e94d69b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3563a236.js",
     "static/js/2.6e94d69b.chunk.js",
-    "static/css/main.d106f94a.chunk.css",
-    "static/js/main.f0de2f9e.chunk.js"
+    "static/css/main.ec2e062d.chunk.css",
+    "static/js/main.16b49a88.chunk.js"
   ]
 }
