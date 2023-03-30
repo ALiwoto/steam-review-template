@@ -26,7 +26,7 @@ export default function Categories(props) {
         var localReviewString = ""
 
         function appendCategoryTitle(title) {
-            localReviewString += "---{ " + title + " }---\n"
+            localReviewString += "[b] " + title + "[/b] \n"
         }
 
         function appendOption(option, checked) {
@@ -57,9 +57,6 @@ export default function Categories(props) {
             // newline under every category
             localReviewString += "\n"
         }
-
-        // Credit 
-        localReviewString += "\nGrab this review template here! 👉 https://vojtastruhar.github.io/steam-review-template/\n"
 
         navigator.clipboard.writeText(localReviewString).then(function () {
             console.log('Async: Copying to clipboard was successful!');
