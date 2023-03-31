@@ -30,11 +30,11 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      #- name: Build with Jekyll
+        #uses: actions/jekyll-build-pages@v1
+        #with:
+        #  source: ./
+       #   destination: ./_site
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
@@ -43,7 +43,7 @@ jobs:
       - run: npm ci
       - run: npm install
       - run: npm run build
-      # - run: rm -rf ./_site; mv ./build ./_site
+      - run: mv ./dist ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
