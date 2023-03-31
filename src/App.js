@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <header className="App-header">
-        <h2 className="App-header">{"---{ Review Template }---"}</h2>
+        <h2 className="App-header">{"Review Template"}</h2>
         <p className="App-header">☑ Awesome</p>
       </header>
 
@@ -15,7 +15,7 @@ function App() {
       </div>
 
       <footer className="App-footer">
-        <p className="signature">Vojtěch Struhár, 2021</p>
+        <p className="signature">ALiwoto, 2023</p>
       </footer>
     </div>
   );
