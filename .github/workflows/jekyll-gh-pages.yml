@@ -43,7 +43,7 @@ jobs:
       - run: npm ci
       - run: npm install
       - run: npm run build
-      - run: rm -rf ./_site; mv ./build ./_site
+      # - run: rm -rf ./_site; mv ./build ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
